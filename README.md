@@ -13,6 +13,7 @@ I'm interested in applying data-driven methods and AI to real-world problems. Du
 **Web & Tools:** HTML5/CSS · Angular · Spring Boot · Git · Figma
 
 ## 📂 Projects
+- [covid19-ml-analysis](https://github.com/barashik25/covid19-ml-analysis) — hospitalization risk prediction using Random Forest & MLP on real-world COVID-19 data
 - [ticketline](https://github.com/IEr090/ticketline) — ticket sales platform built with a team using Java & Spring Boot
 - [MARBLE](https://github.com/barashik25/MARBLE) — contributed to a project on data-driven representation of non-linear dynamical systems
 
