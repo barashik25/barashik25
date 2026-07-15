@@ -16,7 +16,7 @@ Currently looking for a **position in AI / Data / Medical Tech**.
 
 **Medical Informatics:** MeVisLab (medical data visualization)
 
-**Software Development:** Angular · Spring Boot · HTML5/CSS · Git
+**Software Development:** Angular · Spring Boot · HTML5/CSS · JavaScript · Git
 
 ## Projects
 
