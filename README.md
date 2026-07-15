@@ -1,6 +1,6 @@
 # Hi, I'm Stefaniia 👋
 
-CS Student @ TU Wien — Data Analysis & Medical Informatics
+CS Student @ TU Wien | Data Analysis & Medical Informatics
 
 ## About Me
 
