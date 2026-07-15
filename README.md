@@ -21,7 +21,7 @@ Currently looking for a **position in AI / Data / Medical Tech**.
 ## Projects
 
 - [**covid19-ml-analysis**](https://github.com/barashik25/covid19-ml-analysis) — hospitalization risk prediction using Random Forest & MLP on real-world COVID-19 clinical data *(Bachelor's thesis, Chuvash State University)*
-- [**ticketline**](https://github.com/IEr090/ticketline) — full-stack ticket sales platform (Java & Spring Boot), built with a team
+- [**ticketline**](https://github.com/IEr090/ticketline) — full-stack ticket sales platform (Java/Spring Boot backend, Angular frontend), built with a team — contributed to both frontend and backend
 - [**MARBLE**](https://github.com/barashik25/MARBLE) — explored and extended a data-driven representation framework for non-linear dynamical systems
 
 ## Contact
