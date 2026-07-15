@@ -2,6 +2,8 @@
 
 CS Student @ TU Wien | Data Analysis & Medical Informatics
 
+![Stefaniia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barashik25&show_icons=true&theme=default&hide_border=true)
+
 ## About Me
 
 I'm interested in applying data-driven methods and **AI** to real-world problems, especially in **healthcare**. During my studies I've worked with machine learning algorithms, statistical modelling and software engineering, including a Random Forest model applied to medical data and a full-stack ticket sales platform built with a team. In March 2025 I deepened my knowledge in statistical modelling at **Mines Paris – PSL** as part of the ATHENS programme.
