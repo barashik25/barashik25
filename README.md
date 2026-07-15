@@ -1,12 +1,10 @@
-# Hi, I'm Stefaniia 👋
+# Hi, I'm Stefaniia 🪷
 
-CS Student @ TU Wien | Data Analysis & Medical Informatics
-
-![Stefaniia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barashik25&show_icons=true&theme=default&hide_border=true)
+CS Student, TU Wien | Data Analysis & AI | Medical Informatics | Software Development
 
 ## About Me
 
-I'm interested in applying data-driven methods and **AI** to real-world problems, especially in **healthcare**. During my studies I've worked with machine learning algorithms, statistical modelling and software engineering, including a Random Forest model applied to medical data and a full-stack ticket sales platform built with a team. In March 2025 I deepened my knowledge in statistical modelling at **Mines Paris – PSL** as part of the ATHENS programme.
+I'm interested in applying data-driven methods and **AI** to real-world problems, with a particular focus on **healthcare**. During my studies I've worked with machine learning algorithms, statistical modelling and software engineering, including a Random Forest model applied to medical data (Bachelor's thesis, written during correspondence studies at Chuvash State University) and a full-stack ticket sales platform built with a team, where I contributed to backend development using Java and Spring Boot. In March 2025 I deepened my knowledge in statistical modelling at **Mines Paris – PSL** as part of the ATHENS programme.
 
 Currently looking for a **position in AI / Data / Medical Tech**.
 
@@ -22,7 +20,7 @@ Currently looking for a **position in AI / Data / Medical Tech**.
 
 ## Projects
 
-- [**covid19-ml-analysis**](https://github.com/barashik25/covid19-ml-analysis) — hospitalization risk prediction using Random Forest & MLP on real-world COVID-19 clinical data *(Bachelor's thesis project)*
+- [**covid19-ml-analysis**](https://github.com/barashik25/covid19-ml-analysis) — hospitalization risk prediction using Random Forest & MLP on real-world COVID-19 clinical data *(Bachelor's thesis, Chuvash State University)*
 - [**ticketline**](https://github.com/IEr090/ticketline) — full-stack ticket sales platform (Java & Spring Boot), built with a team
 - [**MARBLE**](https://github.com/barashik25/MARBLE) — explored and extended a data-driven representation framework for non-linear dynamical systems
 
